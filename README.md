@@ -4,7 +4,10 @@
 
 ## AIP
 
-An AIP is an Aion Improvement Proposal. AIP's can be proposed by anyone in the Aion community. The proposal is a document which provides a concise overview to the Aion community of a new process, functionality, standard or convention
+An AIP is an Aion Improvement Proposal. AIP's can be proposed by anyone in the Aion community. The proposal is a document which provides a concise overview to the Aion community of a new process, functionality, standard or convention  
+
+## Format
+For proposal formatting refer to ![AIP-00](https://github.com/aionnetwork/AIP/blob/master/AIP%2300.md)
 
 ## Submitting
 
